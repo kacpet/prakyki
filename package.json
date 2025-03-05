@@ -1,0 +1,29 @@
+{
+  "name": "prakyki",
+  "version": "1.0.0",
+  "description": "hello wordl program",
+  "main": "helloWorld.js",
+  "scripts": {
+    "start": "node helloWorld"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kacpet/prakyki.git"
+  },
+  "keywords": [
+    "Javascript",
+    "Hello",
+    "World",
+    "praktyki",
+    "async"
+  ],
+  "author": "Kacper Makulus",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kacpet/prakyki/issues"
+  },
+  "homepage": "https://github.com/kacpet/prakyki#readme",
+  "dependencies": {
+    "async": "^3.2.6"
+  }
+}
